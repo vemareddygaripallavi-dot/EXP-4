@@ -55,8 +55,8 @@ Rectifier with filter
 <img width="540" height="397" alt="image" src="https://github.com/user-attachments/assets/543e1d17-284b-487a-98f0-e69b3d6f61de" />
 
 OUTPUT:
-<img width="688" height="781" alt="image" src="https://github.com/user-attachments/assets/46863671-12a6-4d1c-81ef-f42d00e76a98" />
-<img width="736" height="704" alt="image" src="https://github.com/user-attachments/assets/4dd785bf-d9ca-4df6-af41-86684e8cf0d1" />
+![Uploading image.png…]()
+
 
 
 RESULT:
